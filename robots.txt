@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fififi0011001.github.io/rssmk/feed.xml

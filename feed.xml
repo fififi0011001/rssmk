@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:georss="http://www.georss.org/georss">
   <channel>
     <title>Мир Камня</title>
-    <link>https://dzen.ru/gemworld</link>
+    <link>https://fififi0011001.github.io/rssmk/</link>
     <description>Всё о камнях, минералах и украшениях ручной работы</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 09 Jun 2026 18:00:00 +0300</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/fififi0011001/rssmk/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://fififi0011001.github.io/rssmk/feed.xml" rel="self" type="application/rss+xml"/>
+
     <item>
       <title>Добро пожаловать в «Мир Камня»!</title>
-      <link>https://dzen.ru/gemworld</link>
-      <description>Приветствуем вас в нашем уголке природы! Здесь мы рассказываем об удивительном мире минералов, драгоценных и полудрагоценных камней, а также об украшениях ручной работы. Подписывайтесь, чтобы не пропустить новые публикации о красоте, которую создала сама природа.</description>
-      <pubDate>Sat, 09 Jun 2026 18:00:00 +0300</pubDate>
-      <guid>https://dzen.ru/gemworld/welcome</guid>
+      <link>https://fififi0011001.github.io/rssmk/posts/welcome.html</link>
+      <pdalink>https://fififi0011001.github.io/rssmk/posts/welcome.html</pdalink>
+      <guid>welcome-mir-kamnya-2026-06-09</guid>
+      <pubDate>Tue, 09 Jun 2026 18:00:00 +0300</pubDate>
+      <media:rating scheme="urn:simple">nonadult</media:rating>
+      <category>native-draft</category>
+      <enclosure url="https://fififi0011001.github.io/rssmk/assets/placeholder.svg" type="image/svg+xml"/>
+      <description>Приветствуем вас в нашем уголке природы! Мир минералов, драгоценных камней и украшений ручной работы.</description>
+      <content:encoded><![CDATA[
+        <h1>Добро пожаловать в «Мир Камня»!</h1>
+        <p>Приветствуем вас в нашем уголке природы! Здесь мы рассказываем об удивительном мире минералов, драгоценных и полудрагоценных камней, а также об украшениях ручной работы.</p>
+        <p>Каждый камень — это уникальная история, созданная природой за миллионы лет. Мы покажем вам эту красоту и расскажем её тайны.</p>
+        <p>Подписывайтесь, чтобы не пропустить новые публикации!</p>
+      ]]></content:encoded>
     </item>
   </channel>
 </rss>
